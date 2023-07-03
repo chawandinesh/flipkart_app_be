@@ -33,7 +33,7 @@
       "password": "Bcr@1256",
       "confirmpassword": "Bcr@1256",
       "role": "Admin",
-      "id": 4
+      "id": 4 
     },
     {
       "name": "vasudev",
@@ -50,6 +50,152 @@
       "confirmpassword": "Pav@1256",
       "role": "User",
       "id": 6
-     }
+    }
+  ],
+  "cartitems": [
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "2",
+          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/toy-tricycle/i/8/c/-original-imaghne7szqvhgrf.jpeg?q=70",
+          "name": "LITTLE OLIVE Tinny Tots Tricycle for kids",
+          "price1": "4,999",
+          "price": 2599,
+          "Desc": "Light Blue Tinny Tots Tricycle for kids - Light Blue Tricycle  (Multicolor)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "3",
+          "url": "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/fairness/9/e/1/whiteglow-skin-whitening-brightening-gel-creme-spf-25-i-pa-lotus-original-imaez6gegvquar37.jpeg?q=70",
+          "name": "LOTUS HERBALS",
+          "price1": "290",
+          "price": 188,
+          "Desc": "WhiteGlow Skin Whitening And Brightening Gel, Face Cream with SPF-25, for all skin types  (40 g)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "1",
+          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/electric-ride-on/h/d/a/black-battery-car-kawaii-kids-45-original-imagzt4h2f5famng.jpeg?q=70",
+          "name": "KAWAII Kids Made in India",
+          "price1": "20,999",
+          "price": 11409,
+          "Desc": "black Z8 battery operated ride on car for kids of Age 1-5years Car Battery Operated Ride On  (Black)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "2",
+          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/toy-tricycle/i/8/c/-original-imaghne7szqvhgrf.jpeg?q=70",
+          "name": "LITTLE OLIVE Tinny Tots Tricycle for kids",
+          "price1": "4,999",
+          "price": 2599,
+          "Desc": "Light Blue Tinny Tots Tricycle for kids - Light Blue Tricycle  (Multicolor)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "3",
+          "url": "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/fairness/9/e/1/whiteglow-skin-whitening-brightening-gel-creme-spf-25-i-pa-lotus-original-imaez6gegvquar37.jpeg?q=70",
+          "name": "LOTUS HERBALS",
+          "price1": "290",
+          "price": 188,
+          "Desc": "WhiteGlow Skin Whitening And Brightening Gel, Face Cream with SPF-25, for all skin types  (40 g)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "1",
+          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/electric-ride-on/h/d/a/black-battery-car-kawaii-kids-45-original-imagzt4h2f5famng.jpeg?q=70",
+          "name": "KAWAII Kids Made in India",
+          "price1": "20,999",
+          "price": 11409,
+          "Desc": "black Z8 battery operated ride on car for kids of Age 1-5years Car Battery Operated Ride On  (Black)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "2",
+          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/toy-tricycle/i/8/c/-original-imaghne7szqvhgrf.jpeg?q=70",
+          "name": "LITTLE OLIVE Tinny Tots Tricycle for kids",
+          "price1": "4,999",
+          "price": 2599,
+          "Desc": "Light Blue Tinny Tots Tricycle for kids - Light Blue Tricycle  (Multicolor)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userid": 4,
+      "items": [
+        {
+          "id": "4",
+          "url": "https://rukminim1.flixcart.com/image/416/416/l3t2fm80/sunscreen/f/8/y/-original-imageuhwqtm2p969.jpeg?q=70",
+          "name": "LAKME` Sun Expert",
+          "price1": "325",
+          "price": 211,
+          "Desc": "Ultra Matte Lotion - SPF 50 PA+++  (50 ml)",
+          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
+        }
+      ],
+      "id": 8
+    }
   ]
 }
