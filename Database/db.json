@@ -63,45 +63,93 @@
   "cartitems": [
     {
       "userid": 7,
-      "cartitems": [
-        {
-          "id": "1",
-          "url": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/z/x/x/-original-imagp55frhhddu6n.jpeg?q=90",
-          "name": "REALME C55",
-          "price1": "13999",
-          "price": 11999,
-          "Desc": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB 17.07 cm (6.72 inch) Full HD+ Display 64MP + 2MP | 8MP Front Camera",
-          "offer1": "Bank Offer5% Cashback on Flipkart Axis Bank Card",
-          "offer2": "Special PriceGet extra ₹2000 off (price inclusive of cashback/coupon)",
-          "offer3": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
-          "offer4": "Partner OfferPurchase now & get 1 surprise cashback coupon in Future"
-        },
-        {
-          "id": "1",
-          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70",
-          "name": "BOAT HEADSET  (Pebble Black, True Wireless)",
-          "price1": "2,490",
-          "price": 1099,
-          "Desc": "boAt Airdopes 161 with ASAP Charge, 10mm Drivers and 17 Hours Playback Bluetooth",
-          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
-          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
-          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
-          "offer4": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*"
-        },
-        {
-          "id": "1",
-          "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/electric-ride-on/h/d/a/black-battery-car-kawaii-kids-45-original-imagzt4h2f5famng.jpeg?q=70",
-          "name": "KAWAII Kids Made in India",
-          "price1": "20,999",
-          "price": 11409,
-          "Desc": "black Z8 battery operated ride on car for kids of Age 1-5years Car Battery Operated Ride On  (Black)",
-          "offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
-          "offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
-          "offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
-          "offer4": "Special PriceGet extra ₹1090 off (price inclusive of cashback/coupon)"
-        }
-      ],
-      "id": 2
+      "categoryid": "A",
+      "id": "A1",
+      "url": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/z/x/x/-original-imagp55frhhddu6n.jpeg?q=90",
+      "Name": "REALME C55",
+      "Price1": "13999",
+      "Price": 11999,
+      "Desc": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB 17.07 cm (6.72 inch) Full HD+ Display 64MP + 2MP | 8MP Front Camera",
+      "Offer1": "Bank Offer5% Cashback on Flipkart Axis Bank Card",
+      "Offer2": "Special PriceGet extra ₹2000 off (price inclusive of cashback/coupon)",
+      "Offer3": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+      "Offer4": "Partner OfferPurchase now & get 1 surprise cashback coupon in Future",
+      "count": 1
+    },
+    {
+      "userid": 7,
+      "categoryid": "B",
+      "id": "B1",
+      "url": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/x/v/e/l-all-rbcropn-sky-one-nb-nicky-boy-original-imagkq6hgg5gqsep.jpeg?q=70",
+      "Name": "NB NICKY BOY ",
+      "Price1": "666",
+      "Price": 269,
+      "Desc": "Men Printed Round Neck Light Blue T-Shirt",
+      "Offer1": "Special PriceGet at flat ₹269",
+      "Offer2": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+      "Offer3": "Partner OfferPurchase now & get 1 surprise cashback coupon in Future",
+      "Offer4": "Flat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+      "count": 1
+    },
+    {
+      "userid": 7,
+      "categoryid": "C",
+      "id": "C1",
+      "url": "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70",
+      "Name": "BOAT HEADSET  (Pebble Black, True Wireless)",
+      "Price1": "2,490",
+      "Price": 1099,
+      "Desc": "boAt Airdopes 161 with ASAP Charge, 10mm Drivers and 17 Hours Playback Bluetooth",
+      "Offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+      "Offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+      "Offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+      "Offer4": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+      "count": 1
+    },
+    {
+      "userid": 7,
+      "categoryid": "D",
+      "id": "D1",
+      "url": "https://rukminim1.flixcart.com/image/312/312/xif0q/refrigerator-new/r/e/l/-original-imaggs9nhrntdpex.jpeg?q=70",
+      "Name": "REALME TechLife 564",
+      "Price1": "89,990",
+      "Price": 47990,
+      "Desc": "L Frost Free Side by Side Refrigerator  (Black, 564ASRM)",
+      "Offer1": "Bank OfferFlat ₹1250 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹15,000 and above",
+      "Offer2": "Bank Offer10% off on Citi Credit Card EMI Transactions, up to ₹2,000 on orders of ₹5,000 and above",
+      "Offer3": "Bank OfferFlat ₹4000 Discount on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and above",
+      "Offer4": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500",
+      "count": 1
+    },
+    {
+      "userid": 4,
+      "categoryid": "A",
+      "id": "A2",
+      "url": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=90",
+      "Name": "VIVO T2x 5G",
+      "Price1": "13,999",
+      "Price": 12999,
+      "Desc": "4 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera",
+      "Offer1": "Bank Offer 10% off on Citi Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+      "Offer2": "Bank Offer Extra Rs1,000 off on Citi Credit Card EMI Transactions on a Net Cart Value of Rs29,999 and above",
+      "Offer3": "Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "Offer4": "Special Price Get extra ₹5000 off (price inclusive of cashback/coupon)",
+      "count": 1
+    },
+    {
+      "userid": 4,
+      "categoryid": "A",
+      "id": "A3",
+      "url": "https://rukminim1.flixcart.com/image/300/300/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=90",
+      "Name": "APPLE iPhone 13",
+      "Price1": "13,999",
+      "Price": 61999,
+      "Desc": "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera",
+      "Offer1": "Bank Offer5% Cashback on Flipkart Axis Bank Card",
+      "Offer2": "Bank Offer₹2000 Off On HDFC Bank Debit Card EMI Transactions",
+      "Offer3": "Bank Offer₹2000 Off On HDFC Bank Credit Card Transactions",
+      "Offer4": "Special PriceGet extra ₹7901 off (price inclusive of cashback/coupon)",
+      "count": 1
     }
   ]
 }
