@@ -107,7 +107,40 @@
       "gender": "Male"
     }
   ],
-  "cartitems": [],
+  "cartitems": [
+    {
+      "categoryid": "A",
+      "productId": "A3",
+      "url": "https://rukminim1.flixcart.com/image/300/300/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=90",
+      "Name": "APPLE iPhone 13",
+      "Price1": "13,999",
+      "Price": 61999,
+      "Desc": "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera",
+      "Offer1": "Bank Offer5% Cashback on Flipkart Axis Bank Card",
+      "Offer2": "Bank Offer₹2000 Off On HDFC Bank Debit Card EMI Transactions",
+      "Offer3": "Bank Offer₹2000 Off On HDFC Bank Credit Card Transactions",
+      "Offer4": "Special PriceGet extra ₹7901 off (price inclusive of cashback/coupon)",
+      "count": 1,
+      "userid": "7",
+      "id": 1
+    },
+    {
+      "categoryid": "A",
+      "productId": "A1",
+      "url": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/z/x/x/-original-imagp55frhhddu6n.jpeg?q=90",
+      "Name": "REALME C55",
+      "Price1": "13999",
+      "Price": 11999,
+      "Desc": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB 17.07 cm (6.72 inch) Full HD+ Display 64MP + 2MP | 8MP Front Camera",
+      "Offer1": "Bank Offer5% Cashback on Flipkart Axis Bank Card",
+      "Offer2": "Special PriceGet extra ₹2000 off (price inclusive of cashback/coupon)",
+      "Offer3": "Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+      "Offer4": "Partner OfferPurchase now & get 1 surprise cashback coupon in Future",
+      "count": 1,
+      "userid": "7",
+      "id": 2
+    }
+  ],
   "orders": [
     {
       "items": [
@@ -346,5 +379,6 @@
       "userid": "7",
       "id": 9
     }
+    
   ]
 }
